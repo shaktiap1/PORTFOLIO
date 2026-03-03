@@ -1,0 +1,14 @@
+blogs = [
+    {"id": 1, "title": "The Hidden Problem in Recurrent Neural Networks That Led to LSTMs", "url": "https://medium.com/@shaktiap1", "tags": ["Deep Learning", "RNN", "LSTM"], "read_time": "15 min read", "published": "2 days ago"},
+    {"id": 2, "title": "The Intuition Behind Recurrent Neural Networks (RNNs)", "url": "https://medium.com/@shaktiap1", "tags": ["Deep Learning", "RNN"], "read_time": "12 min read", "published": "2 days ago"},
+    {"id": 3, "title": "The Neural Network That Learned to Remember: RNNs", "url": "https://medium.com/@shaktiap1", "tags": ["Deep Learning", "RNN"], "read_time": "12 min read", "published": "4 days ago"},
+    {"id": 4, "title": "Docker Demystified: How Containers, Images, Compose, and Volumes Actually Work", "url": "https://medium.com/@shaktiap1", "tags": ["Docker", "DevOps"], "read_time": "13 min read", "published": "4 days ago"},
+    {"id": 5, "title": "Best Chunking Strategies for Building Production-Grade RAG Systems", "url": "https://medium.com/@shaktiap1", "tags": ["RAG", "LLM", "Production"], "read_time": "19 min read", "published": "Feb 19"},
+    {"id": 6, "title": "System Design Fundamentals", "url": "https://medium.com/@shaktiap1", "tags": ["System Design", "Architecture"], "read_time": "21 min read", "published": "Feb 11"},
+    {"id": 7, "title": "What Actually Happens After You Deploy an ML Model?", "url": "https://medium.com/@shaktiap1", "tags": ["MLOps", "Deployment"], "read_time": "7 min read", "published": "Feb 9"},
+    {"id": 8, "title": "DATA: Everything You Need to Know as a Data Engineer/Scientist/Analyst", "url": "https://medium.com/@shaktiap1", "tags": ["Data Engineering", "Data Science"], "read_time": "68 min read", "published": "Feb 2"},
+    {"id": 9, "title": "Semantic Caching: The Silent System That Saves AI Companies Millions", "url": "https://medium.com/@shaktiap1", "tags": ["AI Systems", "Caching", "LLM"], "read_time": "25 min read", "published": "Jan 31"},
+    {"id": 10, "title": "Model Context Protocol (MCP)", "url": "https://medium.com/@shaktiap1", "tags": ["LLM", "MCP", "Agentic AI"], "read_time": "33 min read", "published": "Jan 5"},
+    {"id": 11, "title": "Best RAG Architecture for Your Company's Next Project", "url": "https://medium.com/@shaktiap1", "tags": ["RAG", "Architecture", "LLM"], "read_time": "18 min read", "published": "Dec 31, 2025"},
+    {"id": 12, "title": "The Silent Crisis of Machine Learning: Why Most Models Never See the Light of Production", "url": "https://medium.com/@shaktiap1", "tags": ["MLOps", "Production", "ML"], "read_time": "19 min read", "published": "Dec 9, 2025"},
+]
